@@ -1,4 +1,5 @@
-# -*- coding: UTF-8 -*-
+#!ruby
+# encoding: utf-8
 module DiscoverUnusedPartials
 
   def self.find options={}
